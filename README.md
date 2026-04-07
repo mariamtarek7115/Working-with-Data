@@ -7,4 +7,4 @@ This repository contains beginner-to-intermediate data analytics projects using 
 ### 1. Netflix Data Analysis
 - Analyzed Netflix dataset to explore trends in content.
 - Tools: Python, Pandas, Matplotlib  
-- [View Project](./Netflix-Analysis)
+-[View Project](./data_analytics/Netflix-Analysis)
