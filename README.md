@@ -1,2 +1,10 @@
-# Working-with-Data
-This repository contains minimal projects that work with datasets, that will include AI and ML too.
+# Data Analytics Portfolio
+
+This repository contains beginner-to-intermediate data analytics projects using Python.
+
+## Projects that are done so far:
+
+### 1. Netflix Data Analysis
+- Analyzed Netflix dataset to explore trends in content.
+- Tools: Python, Pandas, Matplotlib  
+- [View Project](./Netflix-Analysis)
